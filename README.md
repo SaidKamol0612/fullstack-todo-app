@@ -1,8 +1,8 @@
-﻿# ToDo Master
+﻿# Fullstack ToDo App
 
 ## Description
 
-**ToDo Master** is a simple and efficient task management application designed to help you organize and keep track of your daily tasks.
+Simple and efficient task management application designed to help you organize and keep track of your daily tasks.
 
 ## Key Features
 
